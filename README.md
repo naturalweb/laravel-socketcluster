@@ -2,7 +2,7 @@ Laravel SocketCluster
 ---------------------
 
 [![Build Status](https://travis-ci.org/naturalweb/laravel-socketcluster.svg?branch=master)](https://travis-ci.org/naturalweb/laravel-socketcluster)
-[![Coverage Status](https://coveralls.io/repos/naturalweb/laravel-socketcluster/badge.svg?branch=master&service=github)](https://coveralls.io/github/naturalweb/laravel-socketcluster?branch=master)
+[![Coverage Status](https://coveralls.io/repos/naturalweb/laravel-socketcluster/badge.png?branch=master&service=github)](https://coveralls.io/github/naturalweb/laravel-socketcluster?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/naturalweb/laravel-socketcluster/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/naturalweb/laravel-socketcluster/?branch=master)
 [![Latest Stable Version](https://poser.pugx.org/naturalweb/laravel-socketcluster/v/stable.png)](https://packagist.org/packages/naturalweb/laravel-socketcluster)
 [![License](https://poser.pugx.org/naturalweb/laravel-socketcluster/license.png)](http://opensource.org/licenses/MIT)
