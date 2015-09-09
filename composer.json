@@ -1,7 +1,7 @@
 {
     "name": "naturalweb/laravel-socketcluster",
     "keywords": ["socketcluster", "laravel", "broadcasting"],
-    "license": "BSD-3-Clause",
+    "license": "MIT",
     "homepage": "https://github.com/naturalweb/laravel-socketcluster",
     "authors": [
         {
