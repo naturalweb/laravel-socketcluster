@@ -1,7 +1,7 @@
 Laravel SocketCluster
 ---------------------
 
-SocketCluster.io(http://socketcluster.io/) library broadcaster for Laravel.
+[SocketCluster.io](http://socketcluster.io/) library broadcaster for Laravel.
 
 Requirements
 ------------
