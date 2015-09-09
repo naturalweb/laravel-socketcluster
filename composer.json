@@ -1,5 +1,6 @@
 {
     "name": "naturalweb/laravel-socketcluster",
+    "description": "SocketCluster.io library Broadcaster for Laravel.",
     "keywords": ["socketcluster", "laravel", "broadcasting"],
     "license": "MIT",
     "homepage": "https://github.com/naturalweb/laravel-socketcluster",
