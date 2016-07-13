@@ -1,6 +1,8 @@
 Laravel SocketCluster
 ---------------------
 
+**WARNING: This package is no longer maintained. Use [soleon/sc-php](https://github.com/soleon-leiloes/sc-php) instead.**
+
 [![Build Status](https://travis-ci.org/naturalweb/laravel-socketcluster.svg?branch=master)](https://travis-ci.org/naturalweb/laravel-socketcluster)
 [![Coverage Status](https://coveralls.io/repos/naturalweb/laravel-socketcluster/badge.png?branch=master&service=github)](https://coveralls.io/github/naturalweb/laravel-socketcluster?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/naturalweb/laravel-socketcluster/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/naturalweb/laravel-socketcluster/?branch=master)
